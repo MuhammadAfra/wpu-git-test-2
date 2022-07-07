@@ -9,5 +9,9 @@
 <body>
     <h1>Hellow World!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum nemo reprehenderit id soluta saepe laboriosam aperiam amet at temporibus, debitis impedit voluptatibus nam ut officiis distinctio! Ipsam fugit adipisci impedit?</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
